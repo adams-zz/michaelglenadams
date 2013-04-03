@@ -49,157 +49,157 @@ a.icon {
 /* PROJECTS */
 
 .insta {
-    background: url("/images/projects.png") no-repeat -3px -540px;
+    background: url("/images/projects.png") -3px -540px;
     height:267px;
 }
 
 .insta:hover {
-    background: url("/images/projects.png") no-repeat -3px -810px;
+    background-position: -3px -810px;
     height:269px;
 }
 
 .durand {
-    background: url("/images/projects.png") no-repeat -3px -5px;
+    background: url("/images/projects.png") -3px -5px;
     height:270px;
 }
 
 .durand:hover {
-    background: url("/images/projects.png") no-repeat -3px -288px;
+    background-position: -3px -288px;
     height:255px;
 }
 
 .streak {
-    background: url("/images/projects.png") no-repeat -3px -1090px;
+    background: url("/images/projects.png") -3px -1090px;
     height:267px;
 }
 
 .streak:hover {
-    background: url("/images/projects.png") no-repeat -3px -1361px;
+    background-position: -3px -1361px;
     height:270px;
 }
 
 /* EXPERIENCE */
 
 .degreed {
-    background: url("/images/experience.png") no-repeat -3px -540px;
+    background: url("/images/experience.png") 0px -540px;
     height:267px;
 }
 
 .degreed:hover {
-    background: url("/images/experience.png") no-repeat -3px -810px;
+    background-position: 0px -810px;
     height:269px;
 }
 
 .brg {
-    background: url("/images/experience.png") no-repeat -3px -3px;
+    background: url("/images/experience.png") -3px -3px;
     height:266px;
 }
 
 .brg:hover {
-    background: url("/images/experience.png") no-repeat -3px -273px;
+    background-position: -3px -273px;
     height:270px;
 }
 
 .mtc {
-    background: url("/images/experience.png") no-repeat -3px -1090px;
+    background: url("/images/experience.png") -3px -1090px;
     height:267px;
 }
 
 .mtc:hover {
-    background: url("/images/experience.png") no-repeat -3px -1357px;
-    height:270px;
+    background-position: -3px -1357px;
+    height:260px;
 }
 
 /* EDUCATION */
 .byu {
-    background: url("/images/education.png") no-repeat 0px 0px;
+    background: url("/images/education.png") 0px 0px;
     height:270px;
 }
 
 .byu:hover {
-    background: url("/images/education.png") no-repeat 0px -270px;
+    background-position: 0px -270px;
     height:270px;
 }
 
 .hr {
-    background: url("/images/education.png") no-repeat -3px -1081px;
+    background: url("/images/education.png") -3px -1081px;
     height:267px;
 }
 
 .hr:hover {
-    background: url("/images/education.png") no-repeat -3px -1351px;
+    background-position: -3px -1351px;
     height:269px;
 }
 
 .ga {
-    background: url("/images/education.png") no-repeat 0px -541px;
+    background: url("/images/education.png") 0px -541px;
     height:267px;
 }
 
 .ga:hover {
-    background: url("/images/education.png") no-repeat 0px -811px;
+    background-position: 0px -811px;
     height:270px;
 }
 
 /* PLACES */
 .cali {
-    background: url("/images/states.png") no-repeat -3px -540px;
+    background: url("/images/states.png") -3px -540px;
     height:267px;
 }
 
 .cali:hover {
-    background: url("/images/states.png") no-repeat -3px -808px;
+    background-position: -3px -808px;
     height:269px;
 }
 
 .ut {
-    background: url("/images/states.png") no-repeat -3px -1080px;
+    background: url("/images/states.png") -3px -1080px;
     height:267px;
 }
 
 .ut:hover {
-    background: url("/images/states.png") no-repeat -3px -1350px;
+    background-position: -3px -1350px;
     height:270px;
 }
 
 .az {
-    background: url("/images/states.png") no-repeat -3px -2px;
+    background: url("/images/states.png") -3px -2px;
     height:267px;
 }
 
 .az:hover {
-    background: url("/images/states.png") no-repeat -3px -270px;
+    background-position: -3px -270px;
     height:270px;
 }
 
 /* FAMILY */
 .man {
-    background: url("/images/family.png") no-repeat -3px -5px;
+    background: url("/images/family.png") -3px -5px;
     height:267px;
 }
 
 .man:hover {
-    background: url("/images/family.png") no-repeat -3px -270px;
+    background-position: -3px -270px;
     height:270px;
 }
 
 .woman {
-    background: url("/images/family.png") no-repeat -3px -540px;
+    background: url("/images/family.png") -3px -540px;
     height:267px;
 }
 
 .woman:hover {
-    background: url("/images/family.png") no-repeat -3px -809px;
+    background-position: -3px -809px;
     height:269px;
 }
 
 .baby {
-    background: url("/images/family.png") no-repeat -3px -1080px;
+    background: url("/images/family.png") -3px -1080px;
     height:267px;
 }
 
 .baby:hover {
-    background: url("/images/family.png") no-repeat -3px -1350px;
+    background-position: -3px -1350px;
     height:270px;
 }
 
