@@ -1,0 +1,32 @@
+{
+  "name": "mike-adams",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "description": "mike adams | personal website",
+  "dependencies": {
+    "express": "3.1.0",
+    "jade": "*",
+    "twitter-bootstrap"
+  },
+  "engines": {
+    "node": ">=0.6"
+  },
+  "subdomain": {
+    "mikeadams"
+  },
+  "keywords": [
+    "Mike",
+    "Adams",
+    "Michael",
+    "Adams",
+    "Hack Reactor",
+    "BYU",
+    "Degreed"
+  ],
+  "directories": {
+    "test": "test"
+  },
+}

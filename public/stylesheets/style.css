@@ -1,0 +1,228 @@
+body {
+  padding-top: 30px; /* 60px to make the container go all the way to the bottom of the topbar */
+  color:#666;
+  font-size: 12px;
+}
+
+h1 {
+  color: #666 !important;
+  height: auto;
+}
+
+.title{
+  font-size: 50px;
+  position: relative;
+  left: 12%;
+  -webkit-transform-origin: 50% 0;
+  -moz-transform-origin: 50% 0;
+  -o-transform-origin: 50% 0;
+  -ms-transform-origin: 50% 0;
+  transform-origin: 50% 0;
+  -webkit-transform:rotate(270deg) translate(-200px, -180px);
+  -moz-transform:rotate(270deg) translate(-200px, -180px);
+  -o-transform:rotate(270deg) translate(-200px, -180px);
+  -ms-transform:rotate(270deg) translate(-200px, -180px);
+  transform:rotate(270deg) translate(-200px, -180px);
+}
+
+.container{
+    padding-left:8%;
+}
+
+.box{
+  height:300px;
+}
+
+a {
+    background-repeat: no-repeat;
+}
+
+a.icon {
+    margin: 80px 10px 0px 10px;
+}
+
+/*a.icon:hover {
+    background-color: inherit;
+}*/
+
+/* PROJECTS */
+
+.insta {
+    background-image: url("/images/instahood.png");
+}
+
+.insta:hover {
+    background-image: url("/images/instahood-color.png");
+}
+
+.durand {
+    background-image: url("/images/durand.png");
+}
+
+.durand:hover {
+    background-image: url("/images/durand-color.png");
+}
+
+.streak {
+    background-image: url("/images/streak.png");
+}
+
+.streak:hover {
+    background-image: url("/images/streak-color.png");
+}
+
+/* EXPERIENCE */
+
+.degreed {
+    background-image: url("/images/degreed.png");
+}
+
+.degreed:hover {
+    background-image: url("/images/degreed-color.png");
+}
+
+.brg {
+    background-image: url("/images/brg.png");
+}
+
+.brg:hover {
+    background-image: url("/images/brg-color.png");
+}
+
+.mtc {
+    background-image: url("/images/mtc.png");
+}
+
+.mtc:hover {
+    background-image: url("/images/mtc-color.png");
+}
+
+/* EDUCATION */
+.byu {
+    background-image: url("/images/byu.png");
+}
+
+.byu:hover {
+    background-image: url("/images/byu-color.png");
+}
+
+.hr {
+    background-image: url("/images/hr.png");
+}
+
+.hr:hover {
+    background-image: url("/images/hr-color.png");
+}
+
+.ga {
+    background-image: url("/images/ga.png");
+}
+
+.ga:hover {
+    background-image: url("/images/ga-color.png");
+}
+
+/* PLACES */
+.cali {
+    background-image: url("/images/cali.png");
+    background-repeat: no-repeat;
+}
+
+.cali:hover {
+    background-image: url("/images/cali-color.png");
+    background-repeat: no-repeat;
+}
+
+.ut {
+    background-image: url("/images/ut.png");
+    background-repeat: no-repeat;
+}
+
+.ut:hover {
+    background-image: url("/images/ut-color.png");
+    background-repeat: no-repeat;
+}
+
+.az {
+    background-image: url("/images/az.png");
+    background-repeat: no-repeat;
+}
+
+.az:hover {
+    background-image: url("/images/az-color.png");
+    background-repeat: no-repeat;
+}
+
+/* FAMILY */
+.man {
+    background-image: url("/images/man.png");
+    background-repeat: no-repeat;
+}
+
+.man:hover {
+    background-image: url("/images/man-color.png");
+    background-repeat: no-repeat;
+}
+
+.woman {
+    background-image: url("/images/woman.png");
+    background-repeat: no-repeat;
+}
+
+.woman:hover {
+    background-image: url("/images/woman-color.png");
+    background-repeat: no-repeat;
+}
+
+.baby {
+    background-image: url("/images/baby.png");
+    background-repeat: no-repeat;
+}
+
+.baby:hover {
+    background-image: url("/images/baby-color.png");
+    background-repeat: no-repeat;
+}
+
+#header{
+  height:200px;
+  margin:25px 0;
+  text-align:center;
+}
+
+#header h1{
+  font-size:150px;
+  margin:25px 0;
+  color:#666;
+}
+
+#exp{
+  height:300px;
+  margin:25px 0;
+}
+
+#edu{
+  height:300px;
+  margin:25px 0;
+}
+.smalledu{
+  height:30px;
+  margin: 80px 10px 0 0;
+}
+
+#plc{
+  height:300px;
+  margin:25px 0;
+}
+
+#fam{
+  height:300px;
+  margin:25px 0;
+}
+
+#proj{
+  height:300px;
+  margin:25px 0;
+}
+
+
