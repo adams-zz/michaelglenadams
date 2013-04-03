@@ -30,6 +30,7 @@ h1 {
 }
 
 .box{
+    position:relative;
   height:300px;
 }
 
@@ -48,140 +49,158 @@ a.icon {
 /* PROJECTS */
 
 .insta {
-    background-image: url("/images/instahood.png");
+    background: url("/images/projects.png") no-repeat -3px -540px;
+    height:267px;
 }
 
 .insta:hover {
-    background-image: url("/images/instahood-color.png");
+    background: url("/images/projects.png") no-repeat -3px -810px;
+    height:269px;
 }
 
 .durand {
-    background-image: url("/images/durand.png");
+    background: url("/images/projects.png") no-repeat -3px -5px;
+    height:270px;
 }
 
 .durand:hover {
-    background-image: url("/images/durand-color.png");
+    background: url("/images/projects.png") no-repeat -3px -288px;
+    height:255px;
 }
 
 .streak {
-    background-image: url("/images/streak.png");
+    background: url("/images/projects.png") no-repeat -3px -1090px;
+    height:267px;
 }
 
 .streak:hover {
-    background-image: url("/images/streak-color.png");
+    background: url("/images/projects.png") no-repeat -3px -1361px;
+    height:270px;
 }
 
 /* EXPERIENCE */
 
 .degreed {
-    background-image: url("/images/degreed.png");
+    background: url("/images/experience.png") no-repeat -3px -540px;
+    height:267px;
 }
 
 .degreed:hover {
-    background-image: url("/images/degreed-color.png");
+    background: url("/images/experience.png") no-repeat -3px -810px;
+    height:269px;
 }
 
 .brg {
-    background-image: url("/images/brg.png");
+    background: url("/images/experience.png") no-repeat -3px -3px;
+    height:266px;
 }
 
 .brg:hover {
-    background-image: url("/images/brg-color.png");
+    background: url("/images/experience.png") no-repeat -3px -273px;
+    height:270px;
 }
 
 .mtc {
-    background-image: url("/images/mtc.png");
+    background: url("/images/experience.png") no-repeat -3px -1090px;
+    height:267px;
 }
 
 .mtc:hover {
-    background-image: url("/images/mtc-color.png");
+    background: url("/images/experience.png") no-repeat -3px -1357px;
+    height:270px;
 }
 
 /* EDUCATION */
 .byu {
-    background-image: url("/images/byu.png");
+    background: url("/images/education.png") no-repeat 0px 0px;
+    height:270px;
 }
 
 .byu:hover {
-    background-image: url("/images/byu-color.png");
+    background: url("/images/education.png") no-repeat 0px -270px;
+    height:270px;
 }
 
 .hr {
-    background-image: url("/images/hr.png");
+    background: url("/images/education.png") no-repeat -3px -1081px;
+    height:267px;
 }
 
 .hr:hover {
-    background-image: url("/images/hr-color.png");
+    background: url("/images/education.png") no-repeat -3px -1351px;
+    height:269px;
 }
 
 .ga {
-    background-image: url("/images/ga.png");
+    background: url("/images/education.png") no-repeat 0px -541px;
+    height:267px;
 }
 
 .ga:hover {
-    background-image: url("/images/ga-color.png");
+    background: url("/images/education.png") no-repeat 0px -811px;
+    height:270px;
 }
 
 /* PLACES */
 .cali {
-    background-image: url("/images/cali.png");
-    background-repeat: no-repeat;
+    background: url("/images/states.png") no-repeat -3px -540px;
+    height:267px;
 }
 
 .cali:hover {
-    background-image: url("/images/cali-color.png");
-    background-repeat: no-repeat;
+    background: url("/images/states.png") no-repeat -3px -808px;
+    height:269px;
 }
 
 .ut {
-    background-image: url("/images/ut.png");
-    background-repeat: no-repeat;
+    background: url("/images/states.png") no-repeat -3px -1080px;
+    height:267px;
 }
 
 .ut:hover {
-    background-image: url("/images/ut-color.png");
-    background-repeat: no-repeat;
+    background: url("/images/states.png") no-repeat -3px -1350px;
+    height:270px;
 }
 
 .az {
-    background-image: url("/images/az.png");
-    background-repeat: no-repeat;
+    background: url("/images/states.png") no-repeat -3px -2px;
+    height:267px;
 }
 
 .az:hover {
-    background-image: url("/images/az-color.png");
-    background-repeat: no-repeat;
+    background: url("/images/states.png") no-repeat -3px -270px;
+    height:270px;
 }
 
 /* FAMILY */
 .man {
-    background-image: url("/images/man.png");
-    background-repeat: no-repeat;
+    background: url("/images/family.png") no-repeat -3px -5px;
+    height:267px;
 }
 
 .man:hover {
-    background-image: url("/images/man-color.png");
-    background-repeat: no-repeat;
+    background: url("/images/family.png") no-repeat -3px -270px;
+    height:270px;
 }
 
 .woman {
-    background-image: url("/images/woman.png");
-    background-repeat: no-repeat;
+    background: url("/images/family.png") no-repeat -3px -540px;
+    height:267px;
 }
 
 .woman:hover {
-    background-image: url("/images/woman-color.png");
-    background-repeat: no-repeat;
+    background: url("/images/family.png") no-repeat -3px -809px;
+    height:269px;
 }
 
 .baby {
-    background-image: url("/images/baby.png");
-    background-repeat: no-repeat;
+    background: url("/images/family.png") no-repeat -3px -1080px;
+    height:267px;
 }
 
 .baby:hover {
-    background-image: url("/images/baby-color.png");
-    background-repeat: no-repeat;
+    background: url("/images/family.png") no-repeat -3px -1350px;
+    height:270px;
 }
 
 #header{

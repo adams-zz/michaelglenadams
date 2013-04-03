@@ -1,32 +1,33 @@
 {
-  "name": "mike-adams",
-  "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "start": "node app"
-  },
-  "description": "mike adams | personal website",
+  "name": "michaelglenadams",
+  "version": "0.1.0-9",
   "dependencies": {
     "express": "3.1.0",
-    "jade": "*",
-    "twitter-bootstrap"
+    "jade": "*"
   },
   "engines": {
-    "node": ">=0.6"
+    "node": "0.6.x"
   },
-  "subdomain": {
-    "mikeadams"
-  },
-  "keywords": [
-    "Mike",
-    "Adams",
-    "Michael",
-    "Adams",
-    "Hack Reactor",
-    "BYU",
-    "Degreed"
-  ],
+  "description": "Personal Website",
   "directories": {
     "test": "test"
   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelglenadams/michaelglenadams.git"
+  },
+  "keywords": [
+    "Mike",
+    "Michael",
+    "Adams"
+  ],
+  "subdomain": "michaelglenadams",
+  "author": "Mike Adams",
+  "license": "BSD",
+  "gitHead": "75aa9b82d63252b5a6408b62144a4a214872f2e6",
+  "readmeFilename": "README.md"
 }
