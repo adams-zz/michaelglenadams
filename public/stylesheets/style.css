@@ -25,26 +25,49 @@ h1 {
   transform:rotate(270deg) translate(-200px, -180px);
 }
 
+.greyed{
+  opacity: 0.8;
+}
+
 .container{
     padding-left:8%;
 }
 
 .box{
-    position:relative;
+  position:relative;
   height:300px;
 }
 
+.box div {
+  position:absolute;
+  top: 245px;
+  display: block;
+  margin-top: 20px;
+  width:260px;
+  background: rgba(255,255,255,0.9);
+  display:none;
+  color: #666;
+  font-size: 20px;
+  line-height: 24px;
+  z-index: 9999;
+  border: 1px solid black;
+  padding: 5px;
+  /*text-align: center;*/
+}
+
 a {
-    background-repeat: no-repeat;
+  text-decoration: none !important;
+
+}
+
+a:hover {
+  text-decoration: none !important;
 }
 
 a.icon {
     margin: 80px 10px 0px 10px;
 }
 
-/*a.icon:hover {
-    background-color: inherit;
-}*/
 
 /* PROJECTS */
 
@@ -194,12 +217,12 @@ a.icon {
 }
 
 .baby {
-    background: url("/images/family.png") -3px -1080px;
+    background: url("/images/family.png") -3px -1350px;
     height:267px;
 }
 
 .baby:hover {
-    background-position: -3px -1350px;
+    background-position: -3px -1080px;
     height:270px;
 }
 
@@ -236,7 +259,7 @@ a.icon {
 
 #fam{
   height:300px;
-  margin:25px 0;
+  margin:25px 0 150px 0;
 }
 
 #proj{
