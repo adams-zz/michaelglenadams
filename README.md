@@ -1,11 +1,10 @@
 See it live here:  [adams.jit.su](http://adams.jit.su)
 ================
 
-## Technology
-
 This is a personal website I designed and built from scratch.  
 
-It is built with: 
+## Technology
+
 * [Node.js express](http://expressjs.com/)
 * [Jade templates](http://jade-lang.com/)
 * [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
