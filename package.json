@@ -1,6 +1,6 @@
 {
   "name": "mike-adams",
-  "version": "0.1.0-23",
+  "version": "0.1.0-27",
   "dependencies": {
     "express": "3.1.0",
     "jade": "*"

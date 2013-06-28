@@ -146,12 +146,12 @@ a.icon {
 }
 
 .hr {
-    background: url("/images/education.png") -3px -1081px;
+    background: url("/images/education.png") -0px -1081px;
     height:267px;
 }
 
 .hr:hover {
-    background-position: -3px -1351px;
+    background-position: -0px -1350px;
     height:269px;
 }
 
